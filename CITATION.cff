@@ -1,9 +1,9 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Pavithra
-    given-names: 2324
-title: "LS-method-1"
-version: "0.1.0"
-date-released: "2025-09-07"
-url: "https://github.com/pavithra2324/LS-method-1"
+@software{Pavithra_LS_method_1_2025,
+  author  = {Pavithra},
+  month   = {09},
+  title   = {{LS-method-1}},
+  url     = {https://github.com/pavithra2324/LS-method-1},
+  version = {0.1.0},
+  year    = {2025}
+}
+
